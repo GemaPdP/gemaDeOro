@@ -17,15 +17,16 @@ default_grid: "normal" # The default grid size. "normal" or "compact"
 default_lightbox: "fullscreen" # The default lightbox mode. "fullscreen" or "normal"
 
 ## Personal information
-name: "Your name"
-email: "your@email.com"
-instagram: "your_instagram_handle"
+name: "Gema"
+email: "gema.pinedo.de.pedro@gmail.com"
+instagram: "gemapinedode"
 flickr: "your_flickr_handle"
 facebook: "your_facebook_handle" # Not the full URL, just the username e.g. "firstname.surname"
 
 ## Your list of featured collections. These will be used in the CMS interface for highlighting photos.
 features:
   - "Street"
+  - "Legnica 2025"
 
 ## Your list of cameras, lenses and films. Will be used in the CMS interface when adding a new roll.
 ## You need to run `node setup.js` after making changes here in order to update the CMS.
